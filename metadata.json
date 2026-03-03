@@ -1,0 +1,7 @@
+{
+  "name": "Sakthi Dental Clinic",
+  "description": "Professional dental care for women, children, and families in Hosur, Tamil Nadu. Specialized services including implants, orthodontics, and pediatric dentistry.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
